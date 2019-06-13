@@ -1,2 +1,1 @@
-# Cashiers
-Extra touch added to the original master branch
+# 4.-Learning-Javascript
